@@ -4,13 +4,17 @@
 - 👯 Tenho interesse em atuar com desenvolvimento web e testes com Java e Selenium WebDriver
 - 😄 Estou sempre a procura de novos desafios
 
-### Tecnologias
+### Tecnologias que estou estudando
+<div style="display: inline_block"><br>
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+</div>
 
-- HTML e CSS 
-- JavaScript
-- MySQL 
-- Java
-- Selenium IDE e Selenium WebDriver
+##
 
 <div align="center">
   <a href="https://github.com/arthurhenriqueti">
