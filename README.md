@@ -1,7 +1,7 @@
 ### Olá, me chamo Arthur 👋
 
 - 🔭 Atualmente venho estudando tecnologias Front-end
-- 👯 Tenho interesse em atuar com desenvolvimento web e testes com Java e Selenium WebDriver
+- 👯 Tenho interesse em atuar com desenvolvimento Front-end
 - 😄 Estou sempre a procura de novos desafios
 
 ### Tecnologias que estou estudando
