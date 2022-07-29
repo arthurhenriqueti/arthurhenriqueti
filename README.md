@@ -1,8 +1,8 @@
 ### Olá, me chamo Arthur 👋
 
-- 🔭 Atualmente venho estudando tecnologias Front-end
-- 👯 Tenho interesse em atuar com desenvolvimento e testes
-- 😄 Estou sempre a procura de novos desafios
+- 🔭 Atualmente venho estudando tecnologias Front-end e Back-end.
+- 👯 Tenho interesse em atuar com Desenvolvimento Web.
+- 😄 Estou sempre a procura de novos desafios!
 
 ### Tecnologias que estou estudando
 <div style="display: inline_block"><br>
