@@ -1,7 +1,7 @@
 ### Olá, me chamo Arthur 👋
 
 - 🔭 Atualmente estou cursando o P1 em Ciência da Computação na Uninter.
-- 👯 Tenho interesse em atuar com Desenvolvimento Web.
+- 👯 Possuo interesse em atuar como Desenvolvedor, Analista de Testes ou Suporte.
 - 😄 Estou sempre a procura de novos desafios!
 - 💻 Atualmente estou estudando C# e ASP.NET
 
